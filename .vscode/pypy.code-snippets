@@ -39,8 +39,9 @@
       "# ---------------------------------",
       "",
       "def solve():",
-      "   pass $0",
+      "   pass",
       "",
+      "$0",
       "solve()"
     ],
     "description": "Competitive Programming Template"
