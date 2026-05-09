@@ -13,10 +13,9 @@ def solve(d,arr):
         if arr[i] + arr[j] <= d:
             cnt+=1
             i+=1
-            j-=1
         else:
             cnt+=1
-            j-=1
+        j-=1
         
     
     print(cnt)
